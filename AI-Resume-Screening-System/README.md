@@ -23,7 +23,7 @@ Communication: Gmail Trigger.
 
 📸 Workflow Preview
 (تأكد من رفع الصورة وتغيير الاسم في هذا السطر كما فعلنا سابقاً)
-![Workflow Preview](./path-to-your-image.png)
+![Workflow Preview](./AIResume.png)
 ⚙️ How it Works
 Trigger: New email received with an attachment.
 
