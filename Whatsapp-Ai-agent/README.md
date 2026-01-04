@@ -28,7 +28,7 @@ Communication: WhatsApp Cloud API
 Tools: Google Search, Wikipedia, Gmail, Google Calendar, X API, OpenAI Whisper.
 
 📸 Workflow Preview
-
+![Workflow Preview](./)
 
 ⚙️ Setup & Installation
 Import: Download the workflow.json file and import it into your n8n instance.
